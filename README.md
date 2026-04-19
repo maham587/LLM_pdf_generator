@@ -1,9 +1,10 @@
+
 # 🚀 LLM Document Generator
 
 A simple full-stack application that generates structured documents from a user-defined topic using a local LLM.
 
 ---
-
+<img width="1110" height="781" alt="demo" src="https://github.com/user-attachments/assets/18a5f76c-4248-46a8-8324-257097ab1a31" />
 ## 🧠 Features
 
 * Generate structured content from any topic
